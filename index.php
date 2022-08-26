@@ -1,6 +1,6 @@
 <?php 
 
-date_default_timezone_set("Asia/Tokyo");
+date_default_timezone_set("Europe/Madrid");
 
 //created data will be changed to array form
 $comment_array = array();
